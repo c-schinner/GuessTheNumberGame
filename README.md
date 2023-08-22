@@ -1,4 +1,3 @@
-# GuessTheNumberGame
 # Guess the Number Game
 Welcome to the Guess the Number game, where you'll put your guessing skills to the test! Try to guess the secret number chosen by the computer and see if you can figure it out within 8 attempts.
 
